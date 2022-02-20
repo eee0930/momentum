@@ -20,12 +20,20 @@
         </div>
         <h1 id="greeting" class="hidden"></h1>
     </div>
+    <!-- [logout] -->
+    <button id="logout" class="logout-btn hidden">logout</button>
     <!--[to do list]-->
     <div class="todo-list">
         <form id="todo-form" class="todo-form">
             <input type="text" placeholder="Write a &quot;To Do&quot; and Press Enter" required/>
         </form>
         <ul id="todo-list"></ul>
+    </div>
+    <!--[checked to do list]-->
+    <div class="checked-list hidden">
+        <h5>Completed! (latest 5)</h5>
+        <button id="clearBtn" class="clear-btn">clear</button>
+        <ul id="checked-todo-list"></ul>
     </div>
     <!--[quotes]-->
     <div id="quote" class="quote">
