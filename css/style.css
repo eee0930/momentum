@@ -39,6 +39,7 @@ input[type=text]::placeholder {color: #fff;}
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
+    width: 50vmax;
 }
 .intro h1 {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
 .intro h2 {
