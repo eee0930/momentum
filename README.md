@@ -1,4 +1,4 @@
-### Momentum Clone
+# Momentum Clone
 
 <br><br>
 
@@ -12,9 +12,10 @@
 1. 이름으로 로그인하면 항상 나의 이름으로 환영받아요.
 2. 항상 바뀌는 아름다운 배경화면
 3. 하단에 배치된 인생에 도움이 되는 조언
-4. todo list를 작성할 수 있어요.
-5. 완료한 todo list는 체크하거나 삭제할 수 있어요.
-6. 완료하여 체크한 최근 5개의 todo list는 하단에서 확인할 수 있어요.
+4. 왼쪽 상단에서 현재 위치와 날씨를 확인할 수 있어요.
+5. todo list를 작성할 수 있어요.
+6. 완료한 todo list는 체크하거나 삭제할 수 있어요.
+7. 완료하여 체크한 최근 5개의 todo list는 하단에서 확인할 수 있어요.
 
 ### Period
 2022-01-23 ~ 2022-01-27
@@ -24,7 +25,7 @@
 ## 3. Stacks 📚
 ### Languages
 <div>
-<img src="https://img.shields.io/badge/JavaScript-444444?style=for-the-badge&logo=javascript&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-ffae00?style=for-the-badge&logo=javascript&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/CSS-DB7093?style=for-the-badge&logo=css&logoColor=white"/>
 </div>
