@@ -25,7 +25,7 @@
 ## 3. Stacks 📚
 ### Languages
 <div>
-<img src="https://img.shields.io/badge/JavaScript-ffae00?style=for-the-badge&logo=javascript&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-ffae00?style=for-the-badge&logo=javascript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/HTML-333333?style=for-the-badge&logo=html&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/CSS-DB7093?style=for-the-badge&logo=css&logoColor=white"/>
 </div>
